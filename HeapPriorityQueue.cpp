@@ -17,13 +17,16 @@ HeapPriorityQueue::~HeapPriorityQueue() {
 
 void HeapPriorityQueue::add(MazeState *elem) {
     // TODO:  Implement this!
+    if (is_empty()){
 
+    }
+    heap.push_back(elem);
 }
 
 MazeState *HeapPriorityQueue::remove() {
     assert(!is_empty());
+     // TODO:  Implement this!
 
-    // TODO:  Implement this!
 }
 
 

@@ -16,7 +16,7 @@ LinkedListQueue::LinkedListQueue() {
 
 void LinkedListQueue::add(MazeState *elem) {
     // TODO:  Implement this.
-    struct node *toAdd = malloc(sizeof(struct node));
+    struct node *toAdd = new node;
     toAdd->data = elem;
     toAdd->next = NULL;
     if (head == NULL) {
