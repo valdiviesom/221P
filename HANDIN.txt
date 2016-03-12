@@ -1,8 +1,8 @@
 Student Name #1: Mauricio Valdivieso
 Student ugrad login #1: t0d0b
 
-Student Name #2: TODO:
-Student ugrad login #2: TODO:
+Student Name #2: Haiyun (Jimmy), Du
+Student ugrad login #2: t3q7
 
 Team name (for fun!): TODO:
 
@@ -11,6 +11,7 @@ collaboration policy
 (http://www.ugrad.cs.ubc.ca/~cs221/current/syllabus.shtml#conduct):
 
 Mauricio Valdivieso
+Jimmy Du
 
 TODO: submit using: make handin-proj1
 
@@ -20,7 +21,15 @@ Approximate hours on project: TODO:
 
 ----------------------------------------------------------------------
 
-For teams, rough breakdown of work: TODO:
+For teams, rough breakdown of work:
+Mauricio:
+ -Linked List Queue Implementation
+ -Heap Priority Queue Implementation (shared)
+ -This
+Jimmy:
+ - Array Queue Implementation
+ -Heap Priority Queue Implementation (shared)
+
 
 ----------------------------------------------------------------------
 
@@ -45,7 +54,7 @@ TODO:
 2.  Try to solve the blank Sudoku board using your ArrayQueue
 and LinkedListQueue classes.  What happens?  Why?
 
-TODO:
+TODO: I'm guessing too many options
 
 3.  Switch to the medium-difficulty Sudoku problem, and comment
 out the delay and the print statements in the solveMaze function.

@@ -186,7 +186,7 @@ int main ()
   // No need to delete startState or anything else, because the
   // destructor for seenStates will delete all the generated
   // MazeStates exactly once.
-  // delete startState;
+  // delete startState;  e
 
   return 0;
 }
