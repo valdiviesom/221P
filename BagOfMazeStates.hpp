@@ -24,7 +24,7 @@ class BagOfMazeStates {
   // return the next element, removing it from the list
   virtual MazeState *remove() = 0;
 
-  // add an element to the todo list
+  // add an element to the to do list
   virtual void add(MazeState *element) = 0;
 
   // returns whether or not there is at least 1 item in the list
